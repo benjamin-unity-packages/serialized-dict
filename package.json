@@ -1,0 +1,15 @@
+{
+    "name": "com.benjidev.serializeddict",
+    "displayName": "Serialized Dict",
+    "version": "2.0.0",
+    "unity": "2020.3",
+    "description": "Simple serializable dictionary datastructure",
+    "keywords": [
+      "Dictionary",
+      "Serialization",
+      "Serialized Dictionary"
+    ],
+    "category": "Data Structures",
+    "type": "library",
+    "unityRelease": "3f1"
+  }
